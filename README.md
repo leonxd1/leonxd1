@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I make game's**
 
-<h3 align="left">Social links:</h3>
+<h3 align="left">Discord:</h3>
 <p align="left">
 <a href="https://discord.gg/leonxd#1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leonxd#1212" height="30" width="40" /></a>
 </p>
