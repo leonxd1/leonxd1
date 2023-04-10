@@ -2,7 +2,6 @@
 <h3 align="center">About me:</h3>
 <img align="right" alt="leonxd" width="400" src="https://miro.medium.com/v2/resize:fit:1000/0*_nTGrEkwvXxxmcHY.gif"
 
-
 - 🔭 I’m currently working on **A website Bio-page for myself.**
 
 - 🌱 I’m currently learning **Python**
@@ -13,7 +12,7 @@
 
 - ⚡ Fun fact **I make game's**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:</h3>
 <p align="left">
 <a href="https://discord.gg/leonxd#1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leonxd#1212" height="30" width="40" /></a>
 </p>
