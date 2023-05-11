@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **A Bio-page for myself.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **HTML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/leonxd1](https://github.com/leonxd1)
+- 👨‍💻 All of my projects are here
 
-- 📫 How to reach me **leonxd@terrorist.lol**
+- 📫 How to reach me leonxd#1212
 
-- ⚡ Fun fact **I make game's**
+- ⚡ Fun fact **I play roblox**
 
 <h3 align="left">Discord:</h3>
 <p align="left">
