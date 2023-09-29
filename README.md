@@ -2,19 +2,18 @@
 <h3 align="center">About me:</h3>
 <img align="right" alt="leonxd" width="400" src="https://miro.medium.com/v2/resize:fit:1000/0*_nTGrEkwvXxxmcHY.gif"
 
-- 🔭 I’m currently working on **A Bio-page for myself.**
+- 🔭 I’m currently working on **Nothing.**
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are here
 
-- 📫 How to reach me leonxd#1212
-
-- ⚡ Fun fact **I play roblox**
+- 📫 How to reach me leonxd#1212_
+- ⚡ Fun fact **Why are u stalking me**
 
 <h3 align="left">Discord:</h3>
 <p align="left">
-<a href="https://discord.com/users/660508577747828757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leonxd#1212" height="30" width="40" /></a>
+<a href="https://discord.com/users/660508577747828757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leonxd_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
