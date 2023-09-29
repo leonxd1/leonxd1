@@ -2,8 +2,6 @@
 <h3 align="center">About me:</h3>
 <img align="right" alt="leonxd" width="400" src="https://miro.medium.com/v2/resize:fit:1000/0*_nTGrEkwvXxxmcHY.gif"
 
-  rayanxx1998@gmail.com
-Pass : Discord.gg/fsaccounts
 
 - 🔭 I’m currently working on **Nothing.**
 
