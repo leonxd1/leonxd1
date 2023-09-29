@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are here
 
-- 📫 How to reach me leonxd_
+- 📫 Reach me on Discord: leonxd_
 - ⚡ Fun fact **Why are u stalking me**
 
 <h3 align="left">Discord:</h3>
